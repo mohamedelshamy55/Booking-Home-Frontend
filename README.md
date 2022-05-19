@@ -1,73 +1,75 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Booking Home Frontend
+> Booking home is a website where users can view available apartments for rent and reserve for their convenience and taste.
 
-# Project Name
-
-> Description the project.
+> ![mainPage]()
+> ![mainPage]()
+> ![DetailsPage]()
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
+- Redux
+- Rails API
+- Tailwind
+- VS code
 
-## Live Demo (if available)
+## Backend Link
 
-[Live Demo Link](https://livedemo.com)
+[Backend Link](https://github.com/mohamedelshamy55/Booking-Home-Backend)
 
+## Live Demo
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+# Getting Started
+## Prerequisites
 
 
+- Create an account on github
+
+- Install gitbash or use git on the command line.
+
+- Use an IDE of your preference such as VScode.
+
+## Steps to follow:
+
+- Choose a folder in your local machine where you want this repository to be copied
+
+- Clone this [repository](https://github.com/mohamedelshamy55/Booking-Home-Frontend) to your local machine 
+- ```
+  git clone git@github.com/mohamedelshamy55/Booking-Home-Frontend.git
+  ```
+
+- To install all the app dependencies on the command line run
+- ```
+  npm install
+  ``` 
+- To run app in the development mode run 
+- ```
+  npm start
+  ```
 
 ## Authors
 
-👤 **Author1**
+:woman: **Meri Gogichashvili**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- [GitHub](https://github.com/Meri-MG)
+- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
 
-👤 **Author2**
+:man: **Sam Mong'are**
+- [GitHub](https://github.com/Mosams)
+- [LinkedIn](https://www.linkedin.com/in/samwel-mongare/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+:man: **Mohamed ElShamy**
+- [GitHub](https://github.com/mohamedelshamy55)
+- [LinkedIn](https://www.linkedin.com/in/mohamedelshamy85/)
 
 ## 🤝 Contributing
+- Contributions, issues, and feature requests are welcome!
+- Feel free to check the [issues page](https://github.com/mohamedelshamy55/Booking-Home-Frontend/issues).
 
-Contributions, issues, and feature requests are welcome!
+# Show your support
+Give a ⭐ if you like this project!
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+# Acknowledgments
+- Thanks to [Murat Korkmaz](https://www.behance.net/muratk) for his design inspiration [Behance](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign).
+- Thanks to our learning and coding partners.
